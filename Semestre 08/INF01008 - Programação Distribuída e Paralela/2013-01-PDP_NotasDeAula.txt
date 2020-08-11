@@ -1,25 +1,4 @@
 Cadeira: INF01008 - Programação Distribuída e Paralela
-Professor: Cláudio Fernando Resin Geyer
-Aluno: João Luiz Grave Gross 
-Matrícula: 180171
-Semestre: 2013/01
-Página do professor: 
-
-------------------------------------------------------------------------------
----- Colegas:
-------------------------------------------------------------------------------
-
-- José Luiz
-- Lucas Lersch
-- Miguel
-- Hugo
-- Francisco Krahe
-- Jefferson Stoffel
-- Cristiano Dalbem
-
-------------------------------------------------------------------------------
----- Frase:
-------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------
 ---- Notas de Aula

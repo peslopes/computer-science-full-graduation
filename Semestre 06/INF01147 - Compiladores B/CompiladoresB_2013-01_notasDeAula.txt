@@ -1,13 +1,4 @@
 Cadeira: INF01147 - Compiladores B
-Professor: Marcelo Johann
-Aluno: João Luiz Grave Gross 
-Matrícula: 180171
-Semestre: 2013/01
-Página do professor: http://www.inf.ufrgs.br/~johann/comp/
-
-------------------------------------------------------------------------------
----- Frase:
-------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------
 ---- Notas de Aula

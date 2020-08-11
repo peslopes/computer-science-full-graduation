@@ -1,17 +1,4 @@
 Cadeira: INF01039 - História da Computação
-Professor: Weber e Cabral
-Aluno: João Luiz Grave Gross 
-Matrícula: 180171
-Semestre: 2014/01
-
-------------------------------------------------------------------------------
----- Colegas:
-------------------------------------------------------------------------------
-
-Felipe Schmidt
-Jefferson Stoffel
-José Luis Damaren
-Rafael Cenci
 
 ------------------------------------------------------------------------------
 ---- Notas de Aula

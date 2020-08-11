@@ -1,28 +1,4 @@
 Cadeira: INF01120 - Técnicas de Construção de Programas
-Professor: Marcelo Pimenta
-Aluno: João Luiz Grave Gross 
-Matrícula: 180171
-Semestre: 2011/02
-Moodle: 1120cod
-
-------------------------------------------------------------------------------
----- Colegas:
-------------------------------------------------------------------------------
-- Hélio Brauner
-- Jozeane Belomo
-- Jefferson Stoffel
-- Germano
-- Alexandre Kreismann
-
-------------------------------------------------------------------------------
----- Frases:
-------------------------------------------------------------------------------
-"Se cada vez que eu precisar da banana eu precisar levar o gorila junto, ta 
-complicado. (falando sobre modularidade / acoplamento)"
-
-"Fugia como quem foge da cruz. (falando de pessoas que não gostam de Basic)"
-
-
 
 ------------------------------------------------------------------------------
 ---- Notas de Aula: 
@@ -71,19 +47,6 @@ Convenções
 - usar case ao invés de ifs
 - evitar goto. Mas se usar, usar para baixo
 - evitar indentação profunda, com muitos níveis
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ------------------------------------------------------------------------------

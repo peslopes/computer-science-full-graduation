@@ -1,15 +1,4 @@
 Cadeira: INF01050 - Fotografia Computacional
-Professor: Manuel
-Aluno: João Luiz Grave Gross 
-Matrícula: 180171
-Semestre: 2014/01
-
-------------------------------------------------------------------------------
----- Colegas:
-------------------------------------------------------------------------------
-
-José Luis Damaren
-Henrique Weber
 
 ------------------------------------------------------------------------------
 ---- Notas de Aula
